@@ -10,4 +10,7 @@ See disprod_u.m for instructions on using this code.
 
 Created by:
 Brennan Dubuc
-Applied Research Laboratories, The University of Texas at Austin
+Applied Research Laboratories, The University of Texas at Austin (ARL:UT)
+
+Created while the author was a student at The University of Texas at Austin.
+Maintained by the author while at ARL:UT.

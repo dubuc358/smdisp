@@ -1,3 +1,11 @@
+Computes longitudinal-mode dispersion curve and modeshape solutions for an isotropic elastic rod under uniform axial stress (referenced to the undeformed geometry of the rod).
+
+Uses the spectral method to obtain a numerical solution.
+
+Based on work from the following:
+[1] B Dubuc, et al. "Higher order longitudinal guided wave modes in axially stressed seven-wire strands" (2018)
+[2] B Dubuc, et al. "Computation of propagating and non-propagating guided modes in nonuniformly stressed plates using spectral methods" (2018)
+
 See disprod_u.m for instructions on using this code.
 
 Created by:
